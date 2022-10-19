@@ -11,6 +11,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Scala-282C34?logo=scala&logoColor=DC322F" alt="Scala logo" title="Scala" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/StackOverFlow-282C34?logo=stackoverflow&logoColor=F58025" alt="Stack OverFlow" title="Stack OverFlow" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
