@@ -71,7 +71,8 @@
           width: 80px;
           height: 80px;
         }
-        .icon1 {
+        .icon1>img {
+          border: solid 1px;
           border-radius: 50%;
         }
         .skills_icon.nodejs>img {
