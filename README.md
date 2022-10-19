@@ -86,7 +86,7 @@
 <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
 <p><strong>☕ Thanks you!!!</strong></p>
 <p>
-  <strong>🔗 Link group: <a href="https://www.facebook.com/groups/502378978447772" target="_blank">Lập Trình Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
+  <strong>🔗 Link group: <a href="https://www.facebook.com/groups/502378978447772" target="_blank">Julia and Python for Beginners (in Việt Nam)</a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/duat.tran.524381" target="_blank">https://www.facebook.com/duat.tran.524381</a></strong>
   <br>
