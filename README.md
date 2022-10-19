@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/duattran.svg" width="1200" alt="duattran" />
 </a>
 
 <h2 text-align="center">🛠 Technologies and Tools 🛠</h2>
@@ -96,6 +96,6 @@
 <h2 text-align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/duattrandev.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
 
