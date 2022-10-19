@@ -54,50 +54,50 @@
 <br>
 <!-- https://icons8.com -->
 <div text-align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/icons8-link.gif" alt="trungquandev-blog" />
+  <a href="https://www.facebook.com/duat.tran.524381" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duattran-facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.youtube.com/channel/UCp5CjAjfptxPy4DvyaWP1Gg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="duattran-youtube" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duattran-linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/twitter-circled.png" alt="duattran-twitter"/>
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duattran-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:duattran2209@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duattran-email" />
   </a>
 </div>
 
 <br>
 
-<h2 text-align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<h2 text-align="center">📖 Group Facebook: Julia and Python for Beginners (in Việt Nam) 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
+    <strong>☕ Học lập trình Nâng Cao (Julia, Python, Science Computing and Data Science)</strong>
   </a>
 </p>
 <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
+<p><strong>☕ Thanks you!!!</strong></p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
+  <strong>🔗 Link group: <a href="https://www.facebook.com/groups/502378978447772" target="_blank">Lập Trình Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/duat.tran.524381" target="_blank">https://www.facebook.com/duat.tran.524381</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:duattran2209@gmail.com" target="_top">duattran2209@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/backgroud_Julia.png" width="1200" alt="trungquandev-official" />
+<a href="" target="_blank">
+  <img src="images/backgroud_Julia.png" width="1200" alt="duattran" />
 </a>
 
 <br>
-<h2 text-align="center">📑 My Favorites Quote 📑</h2>
+<h2 text-align="center">📑 My Favorites📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/duattrandev.svg" width="846" height="150" alt="trungquandev-official" />
